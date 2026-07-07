@@ -40,11 +40,11 @@ To run the latest version of the Aram GUI:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/JayamV/Aram.git
+    git clone https://github.com/Nishok-12/Aram.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd Aram
+    cd Aram/Main-Code
     ```
 3.  **Run the GUI:**
     ```bash
