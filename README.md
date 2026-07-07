@@ -5,7 +5,7 @@
 ---
 
 ## 📜 Intellectual Property Notice
-**Copyright © 2026Copyright © 2026 Nishok A, Jayam V, Thiruselvam T, and Dr.S.Selvi, Kirana B. All Rights Reserved.Copyright Act of India (1957)**
+**Copyright © 2026 Nishok A, Jayam V, Thiruselvam T, and Dr.S.Selvi, Kirana B. All Rights Reserved.Copyright Act of India (1957)**
 
 Name: Aram - A Tamil Syntax-Based Programming Language and IDE
 
