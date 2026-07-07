@@ -1,0 +1,17 @@
+Aram GUI Versions
+
+Version 1 - #Aram IDE GUI_Version_1 (Supports All Highliting but Input not fully functional and Error is not handled (i.e.Window exits))
+version 2 - #Aram IDE GUI_Version_2 (Supports All Highliting and Input fully functional but Error is not handled (i.e.Window exits))
+	Latter found that the window exits because of exit() calls on interpreter.
+Version 3 - #Aram IDE GUI_Version_3 (Supports All Highliting and Error fully functional but Input is again in error (i.e.Not working))
+Version 4 - #Aram IDE GUI_Version_4 (Supports All Highliting, Input and Error Handling(Here exit function is locked mannually) with corrected output order)
+Version 5 - #Aram IDE GUI_Version_5 (Supports All Highliting, Input and Error Handling(exit() function unlocked) with corrected output order)
+Version 5.1 - #Aram IDE GUI_Version_5.1 (Supports All Highliting(Including grey Highlighting for comment lines), Input and Error Handling(exit() function unlocked) with corrected output order)
+Version 6 - #Aram IDE GUI_Version_6 (Auto complete glitch version with corrected Autocomplete and auto-conversion)
+Version 6.1 - #Aram IDE GUI_Version_6.1 (Adds: auto-replace EN→TA on Space/Enter)
+Version 6.2 - # Aram IDE GUI_Version_6.2 (auto-replace EN→TA on Space/Enter and optimized for aram named interepter,parser etc.)
+Version 7 - # Aram IDE GUI_Version_7 (Adds keywords for file handling, switch cases, list/tuple/set)
+Version 7.1 - # Aram IDE GUI_Version_7.1 (Adds keywords for file handling, switch cases, list/tuple/set and enabling scrolling on left pane)
+Version 7.2 - # Aram IDE GUI_Version_7.2 (Adds keywords for file handling, switch cases, list/tuple/set and enabling scrolling on left pane and minimal autocomplete (barackets,cotation))
+Version 7.3 - # Aram IDE GUI_Version_7.3 (Adds keywords for file handling, switch cases, list/tuple/set and enabling scrolling on left pane and minimal autocomplete (barackets,cotation))& Contains full removal of Autocomplete
+Version 8.1 - # Aram IDE GUI_Version_8.1  (Adds functions like drak mode switch, font size increase and decrease)
