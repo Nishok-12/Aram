@@ -1,17 +1,11 @@
-Based on the repository content, **Aram** appears to be a custom-built programming language or interpreter developed in Python, featuring its own Lexer, Parser, and Interpreter, along with multiple iterations of a Graphical User Interface (GUI).
-
-Below is a comprehensive `README.md` file tailored for your project.
-
----
-
 # Aram
 
-**Aram** is a custom programming language and interpreter ecosystem developed entirely in Python. It provides a full-stack implementation of language processing, from lexical analysis to execution, wrapped in a user-friendly Graphical User Interface.
+**Aram** is a  tamil based custom programming language and interpreter ecosystem developed entirely in Python. It provides a full-stack implementation of language processing, from lexical analysis to execution, wrapped in a user-friendly Graphical User Interface.
 
 ---
 
 ## 📜 Intellectual Property Notice
-**Copyright © 2026 JayamV. All Rights Reserved. Copyright Act of India (1957)**
+**Copyright © 2026Copyright © 2026 Nishok A, Jayam V, Thiruselvam T, and Dr.S.Selvi, Kirana B. All Rights Reserved.Copyright Act of India (1957)**
 
 Name: Aram - A Tamil Syntax-Based Programming Language and IDE
 
@@ -54,7 +48,7 @@ To run the latest version of the Aram GUI:
     ```
 3.  **Run the GUI:**
     ```bash
-    python "ARAM(GUI_Version_7.3).py"
+    python "ARAM(GUI_Version_8.2).py"
     ```
 
 ## 🛠 Technical Stack
@@ -63,7 +57,19 @@ To run the latest version of the Aram GUI:
 
 ---
 
-## 🤝 Contact
-**Author:** [JayamV](https://github.com/JayamV)
+## 🤝 Authors
+
+<p align="center">
+  <a href="https://github.com/Nishok-12">
+    <img src="https://img.shields.io/badge/Nishok%20A-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JayamV">
+    <img src="https://img.shields.io/badge/Jayam%20V-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Thiruselvam T</b> • <b>Dr. S. Selvi</b>
+</p>
 
 For inquiries regarding licensing or collaboration, please contact the author via the GitHub profile.
