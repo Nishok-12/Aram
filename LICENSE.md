@@ -1,4 +1,4 @@
-Copyright © 2026 Nishok A, Jayam V, Thiruselvam T, Dr. S. Selvi, and Kirana B.
+Copyright © 2026 Nishok A, Jayam V, Thiruselvam T, Dr. S. Selvi and Kirana B.
 All Rights Reserved.
 
 ARAM – Tamil Syntax-Based Programming Language and IDE is protected under the Copyright Act, 1957 (Government of India).
